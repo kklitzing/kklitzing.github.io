@@ -40,11 +40,12 @@ feature_row:
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"      
 
+---
+
+{% include feature_row %}
+
+
 To those who speak Spanish:  
 ———————————————  
 A los hispanoblantes:  
  Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar experiencia en este idioma con ustedes, mucho menos la oportunidad de trabaja en una puesta así.  Espero que puede encontrar uso para este gringo y doy un bienvenido a poder conversar con usted.
-
----
-
-{% include feature_row %}
