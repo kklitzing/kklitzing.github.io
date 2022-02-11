@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 #classes:
 #  - landing
 #  - dark-theme
@@ -16,7 +16,7 @@ excerpt: >
   I’m a recent master of science in geology/geochemistry and I’m looking forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include multispectral remote sensing/analysis, GIS tool automation and data engineering/pipelining.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/bio-photo.jpg
     alt: "passionate"
     title: "Passionate about the people and the world around us."
     excerpt: "Put simply, I'd like to help make actionable the wealth of information that can be gleaned from wherever one has the will to point a camera, because I believe that the field of remote sensing will be the key to answering critical questions about our world in the coming years. <br />  
