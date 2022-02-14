@@ -13,13 +13,15 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
+  *Please excuse the state of the site, for it is currently a work in progress.* <br />  
+  <br />    
   I’m a recent master of science in geology/geochemistry and I’m looking forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include multispectral remote sensing/analysis, GIS tool automation and data engineering/pipelining.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "passionate"
-    title: "Passionate about the people and the world around us."
-    excerpt: "Put simply, I'd like to help make actionable the wealth of information that can be gleaned from wherever one has the will to point a camera, because I believe that the field of remote sensing will be the key to answering critical questions about our world in the coming years. <br />  
+    title: "...and curious and the world around us."
+    excerpt: "I'd like to help make actionable the wealth of information that can be gleaned from wherever one has the will to point a camera, because I believe that the field of remote sensing will be the key to answering critical questions about our world in the coming years. <br />  
       This is a time when humanity's interest in the physical world has perhaps piqued, while satellite launch costs have plummeted, and alongside better cameras and sensors, improvements in circuit density have also yielded the compute power to make algorithmic processing of that data cheap and even ubiquitous! The ingestion and digestion of these data streams into a multitude of variables is something I'm highly interested to be part of. <br />  
         If this sounds like the kind of work that your company performs, please feel free to message me, even if it's just to talk shop!"
 #    url: "/docs/configuration/"
