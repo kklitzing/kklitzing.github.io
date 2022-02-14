@@ -13,7 +13,7 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  *Please excuse the state of the site, for it is currently a work in progress.* <br />  
+  *Please excuse the state of the site, <br />  for it is currently a work in progress.* <br />  
   <br />    
   I’m a recent master of science in geology/geochemistry and I’m looking forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include multispectral remote sensing/analysis, GIS tool automation and data engineering/pipelining.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
