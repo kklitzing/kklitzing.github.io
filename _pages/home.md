@@ -29,25 +29,19 @@ feature_row:
   - image_path: /assets/images/Education-Wheel-Woofer.png
     alt: "Educated"
     title: "Academic Background"
-    excerpt: "Master of Science Geology, December 2020
-Southern Illinois University, Carbondale, IL
+    excerpt: "Master of Science Geology, December 2020 <br />
+Southern Illinois University, Carbondale, IL <br />
+Thesis title: Rare Earth Elements and Yttrium in Mine Drainages of the Illinois Basin <br />
 GPA: 3.24/4.0
-Thesis title: Rare Earth Elements and Yttrium in Mine Drainages of the Illinois Basin
 <br /><br />
-Bachelor of Science Geology, Aug 2015
-Minor: Mathematics
-Concentration: Resource Geology Conc., Mathematics Minor, Aug 2015
-Southern Illinois University, Carbondale, IL
+Bachelor of Science Geology, Aug 2015<br />
+Minor: Mathematics <br />
+Concentration: Resource Geology <br />
+Southern Illinois University, Carbondale, IL <br />
 GPA: 3.62/4.0 | cum laude
 <br /><br />
-SIU Field Geology Course, Summer 2015
-Montana, Wyoming, & Idaho, U.S.A
-<br />
-MSHA Underground and Surface New Miner Training, October 2013
-John A. Logan College, Carterville, IL
-<br /><br />
-Associate of Science, Mathematics, May 2013
-Lake Land College, Mattoon, IL
+Associate of Science, Mathematics, May 2013 <br />
+Lake Land College, Mattoon, IL <br />
 GPA: 3.58/4.0 | cum laude"
 #    url: "/docs/license/"
 #    btn_class: "btn--primary"
