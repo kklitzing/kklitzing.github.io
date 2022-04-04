@@ -18,35 +18,48 @@ excerpt: >
   I’m a recent master of science in geology/geochemistry and I’m looking forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include multispectral remote sensing/analysis, GIS tool automation and data engineering/pipelining.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: "/assets/images/bio-photo (2).png"
     alt: "passionate"
     title: "Passionate and curious about our world."
-    excerpt: "I'd like to help make actionable the wealth of information that can be gleaned from wherever one has the will to point a camera, because I believe that the field of remote sensing will be the key to answering critical questions about our world in the coming years. <br />  
-      This is a time when humanity's interest in the physical world has perhaps piqued, while satellite launch costs have plummeted, and alongside better cameras and sensors, improvements in circuit density have also yielded the compute power to make algorithmic processing of that data cheap and even ubiquitous! <br />  The ingestion and development of all this data into something useful and actionable is something I'm passionate about, so if this sounds like the kind of work that your company performs, or maybe has need of, please feel free to send me a message, even if it's just to talk shop!"
+    excerpt: "I'd like to help make actionable the wealth of insights that can be gleaned from wherever one has the will to place sensors, or point a camera, or otherwise gather data. I believe that the field of data science and analytics will be the key to answering critical questions about our world in the coming years. <br />  
+      This is a time when humanity's interest in the physical world has perhaps piqued, while improvements in circuit density have also yielded the compute power to make algorithmic processing of information cheap and even ubiquitous! <br />  The ingestion and development of data into something useful and actionable is something I'm passionate about, so if this sounds like the kind of work that your company performs, or maybe has need of, please feel free to send me a message, even if it's just to talk shop!"
 #    url: "/docs/configuration/"
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"
-# - image_path: /assets/images/mm-responsive-feature.png
-#    alt: "to those who speak Spanish"
-#    title: "A los hispanohablantes:"
-#    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-#    url: "/docs/layouts/"
-#    btn_class: "btn--primary"
-#    btn_label: "Learn more"
-#  - image_path: /assets/images/mm-free-feature.png
-#    alt: "100% free"
-#    title: "100% free"
-#    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/Education-Wheel-Woofer.png
+    alt: "Educated"
+    title: "Academic Background"
+    excerpt: "Master of Science Geology, December 2020
+Southern Illinois University, Carbondale, IL
+GPA: 3.24/4.0
+Thesis title: Rare Earth Elements and Yttrium in Mine Drainages of the Illinois Basin
+
+Bachelor of Science Geology, Aug 2015
+Minor: Mathematics
+Concentration: Resource Geology Conc., Mathematics Minor, Aug 2015
+Southern Illinois University, Carbondale, IL
+GPA: 3.62/4.0 | cum laude
+
+SIU Field Geology Course, Summer 2015
+Montana, Wyoming, & Idaho, U.S.A
+
+MSHA Underground and Surface New Miner Training, October 2013
+John A. Logan College, Carterville, IL
+
+Associate of Science, Mathematics, May 2013
+Lake Land College, Mattoon, IL
+GPA: 3.58/4.0 | cum laude"
 #    url: "/docs/license/"
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"      
+  - image_path: /assets/images/hablo-espanol.png
+    alt: "To those who speak Spanish:"
+    title: "A los hispanohablantes:"
+    excerpt: "Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar experiencia en este idioma con ustedes, mucho menos la oportunidad de trabaja en una puesta así.  Espero que puede encontrar uso para este gringo y doy un bienvenido a poder conversar con usted."
+#    url: "/docs/layouts/"
+#    btn_class: "btn--primary"
+#    btn_label: "Learn more"
 
 ---
 
 {% include feature_row %}
-
-
-To those who speak Spanish:  
-———————————————  
-A los hispanoblantes:  
- Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar experiencia en este idioma con ustedes, mucho menos la oportunidad de trabaja en una puesta así.  Espero que puede encontrar uso para este gringo y doy un bienvenido a poder conversar con usted.
