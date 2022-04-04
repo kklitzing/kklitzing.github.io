@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Kyle Klitzing"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Geologist and lifelong computer enthusiast, looking for opportunities with a company leveraging data for better lives and outcomes."
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Geologist and lifelong tech enthusiast, looking for opportunities with a company leveraging data for better lives and outcomes."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
