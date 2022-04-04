@@ -16,7 +16,7 @@
 title: KyleKlitzing.com
 email: My name @ gmail
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was created to serve as a portfolio of my work across the annals of science and tech.
+  This website was created to serve as a portfolio of my work across the domains of science and tech.
 #twitter_username: username
 github_username: kklitzing
 minimal_mistakes_skin: dark
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Kyle Klitzing"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo (2).png"
   bio    : "Geologist and lifelong tech enthusiast, looking for opportunities with a company leveraging data for better lives and outcomes."
   links:
 #    - label: "Website"
