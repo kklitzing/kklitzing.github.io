@@ -1,7 +1,8 @@
 ---
 layout: single
 author_profile: false
-#classes:
+classes:
+  - wide
 #  - landing
 #  - dark-theme
 permalink: /
@@ -15,7 +16,7 @@ header:
 excerpt: >
   <sub>*Please excuse the state of the site, <br />  for it is currently a work in progress.*</sub><br />  
   <br />    
-  I’m a recent master of science in geology/geochemistry and I’m looking forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include automation of GIS and other software tools, remote sensing, data engineering/pipelining, or the otherwise collection, exploration, and analysis of data.
+  I’m a recent master of science in geology/geochemistry and I now look forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include automation of GIS and other software tools, remote sensing, data engineering/pipelining, or the otherwise collection, exploration, and analysis of data.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: "/assets/images/bio-photo (2).png"
@@ -29,27 +30,27 @@ feature_row:
   - image_path: /assets/images/Education-Wheel-Woofer.png
     alt: "Educated"
     title: "Academic Background"
-    excerpt: "Master of Science Geology, December 2020 <br />
+    excerpt: "**Master of Science, Geology**, December 2020 <br />
 Southern Illinois University, Carbondale, IL <br />
 Thesis title: Rare Earth Elements and Yttrium in Mine Drainages of the Illinois Basin <br />
-GPA: 3.24/4.0
+<sub>GPA: 3.24/4.0 </sub>
 <br /><br />
-Bachelor of Science Geology, Aug 2015<br />
-Minor: Mathematics <br />
+**Bachelor of Science, Geology**, Aug 2015<br />
+Minor: **Mathematics** <br />
 Concentration: Resource Geology <br />
 Southern Illinois University, Carbondale, IL <br />
-GPA: 3.62/4.0 - cum laude
+<sub>GPA: 3.62/4.0 - cum laude </sub>
 <br /><br />
-Associate of Science, Mathematics, May 2013 <br />
+**Associate of Science, Mathematics**, May 2013 <br />
 Lake Land College, Mattoon, IL <br />
-GPA: 3.58/4.0 - cum laude"
+<sub>GPA: 3.58/4.0 - cum laude</sub>"
 #    url: "/docs/license/"
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"      
   - image_path: /assets/images/hablo-espanol-2M.png
     alt: "To those who speak Spanish:"
     title: "A los hispanohablantes:"
-    excerpt: "Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar experiencia en este idioma con ustedes, mucho menos la oportunidad de trabaja en una puesta así.  Espero que puede encontrar uso para este gringo y doy un bienvenido a poder conversar con usted."
+    excerpt: "Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar fluencia en esta idioma, mucho más la oportunidad de trabajo en una puesta así.  Espero que puede encontrar uso para este gringo y doy una bienvenida la oportunidad para conversar con usted."
 #    url: "/docs/layouts/"
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"
