@@ -13,9 +13,9 @@ header:
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
-excerpt: >
-  <sub>*Please excuse the state of the site, <br />  for it is currently a work in progress.*</sub><br />  
-  <br />    
+#excerpt: >
+  ###<sub>*Please excuse the state of the site, <br />  for it is currently a work in progress.*</sub><br />  
+  #<br />    
   I’m a recent master of science in geology/geochemistry and I now look forward to further developing my programming and broad tech background as part of answering and solving problems related to the earth and earth systems, especially if these forays include automation of GIS and other software tools, remote sensing, data engineering/pipelining, or the otherwise collection, exploration, and analysis of data.
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
@@ -48,7 +48,7 @@ Lake Land College, Mattoon, IL <br />
 #    btn_class: "btn--primary"
 #    btn_label: "Learn more"      
   - image_path: /assets/images/hablo-espanol-2M.png
-    alt: "To those who speak Spanish:"
+    alt: "To the Spanish speakers:"
     title: "A los hispanohablantes:"
     excerpt: "Aún, no diría que tengo la idioma avanzada, pero sin embargo, cada día progreso y al fin y al cabo, puedo explicarme en más or menos palabras. Sería un gran placer si podría combinar mi experiencia en las geociencias con este amor de mi, Español, y ganar fluencia en esta idioma, mucho más la oportunidad de trabajo en una puesta así.  Espero que puede encontrar uso para este gringo y doy una bienvenida la oportunidad para conversar con usted."
 #    url: "/docs/layouts/"
